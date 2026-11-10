@@ -1,20 +1,40 @@
-Hídtervezés Projekt – SZTF2 Féléves Beadandó
-Ez a szoftver az Óbudai Egyetem (ÓE-NIK) Mérnökinformatikus szak, Szoftvertechnológia II. kurzusára készült féléves beadandó feladatként.
+<div align="center">
 
-A projekt leírása:
-Az alkalmazás egy mérnöki jellegű tervezőszoftver, amely hidak szerkezeti paramétereinek kezelésére és számítására szolgál. 
-A projekt elsődleges célja a SZTF II. tárgy keretein belül elsajátított komplex algoritmusok, adatszerkezetek és az objektumorientált programozás (OOP) elveinek gyakorlati alkalmazása volt.
+# 🌉 *sztf2-hidtervezes*
 
-Technikai részletek:
-- Programnyelv: C#
-- Keretrendszer: .NET
-- Architektúra: Szigorú objektumorientált felépítés és osztályszerkezet a tantárgyi követelményeknek megfelelően.
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/OOP-0078D4?style=flat-square&logo=code&logoColor=white" alt="Object-Oriented Programming">
+</p>
 
-Funkciók:
-- Különböző hídtípusok és azok szerkezeti adatainak modellezése.
-- Tervezési adatok validálása és matematikai összefüggések kezelése.
--Eredmények strukturált tárolása és kezelése.
+*Engineering design software developed as a semester project for Software Technology II (SZTF2) at Óbuda University (ÓE-NIK).*
 
-A szoftver oktatási céllal készült, a félév végi számonkérés részeként. A kód felépítése a kurzus során elvárt mérnöki szemléletmódot és szoftverfejlesztési módszertanokat követi.
+</div>
 
-Készítette: Czobori Effi (ÓE-NIK)
+---
+
+### 💡 Overview
+
+University coursework project focused on advanced object-oriented programming (OOP), complex data structures, and algorithmic design in C#. The application handles and computes structural parameters for various bridge types, emphasizing strict architectural design and data validation.
+
+---
+
+### ✨ Core Features
+
+* **Bridge Modeling:** Models different bridge types and their underlying structural properties using clean object-oriented class hierarchies.
+* **Design Validation:** Validates input parameters and processes mathematical formulas required for engineering evaluations.
+* **Data Management:** Structures and organizes design calculations and results efficiently within the application lifecycle.
+
+---
+
+### 🎨 Implementation Details
+
+* **Language & Framework:** Built in C# (.NET environment).
+* **Architecture:** Strict OOP structure adhering to course requirements, clean coding principles, and modular design patterns.
+
+---
+
+<div align="center">
+  <small>made with 🤍 by <a href="https://github.com/czoborieffi">czoborieffi</a></small>
+</div>
